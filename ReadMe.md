@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a video conferencing app.<br>👯 I’m looking to collaborate on a future app related to my future company<br>🤝 I’m looking for help with future app ideas<br>🌱 I’m currently learning node.js, JavaScript, react and more frontend/backend technologies<br>💬 Ask me about the video games I play<br>⚡ Fun fact, I play semiprofessional football ⚽
+🔭 I’m currently working on a video conferencing app.<br>👯 I’m looking to collaborate on a future app related to my future company<br>🤝 I’m looking for help with future app ideas<br>🌱 I’m currently learning node.js, JavaScript, react and more frontend/backend technologies<br>💬 Ask me about the video games I play<br>⚡ Fun fact, I play semi-professional football ⚽
 
 
 ## 🌐 Socials:
