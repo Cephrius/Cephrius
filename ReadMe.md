@@ -20,9 +20,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cephrius&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Memes
-<img src="meme-api.com/gimme" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=cephrius&icon=0&color=0)](https://visitcount.itsvg.in)
 
